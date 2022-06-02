@@ -1,0 +1,3 @@
+
+rootProject.name = "Matematikadan_masalalar"
+include ':app'
